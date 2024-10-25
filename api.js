@@ -4,7 +4,7 @@
 const words = {
     easy: ["CASAS", "PELOS", "MANOS", "GATOS", "PERRO", "MESAS", "SILLA", "AGUAS", "BOCAS", "DEDOS"],
     medium: ["ÁRBOL", "COCHE", "PLAYA", "RELOJ", "FLORA", "LECHE", "FUEGO", "HIELO", "HUEVO", "QUESO"],
-    hard: ["ÁCIDO", "GOTAS", "ÁTOMO", "BUQUE", "CÉNIT", "CUÓRUM", "DÚCTIL", "ÉXITO", "FÚTIL", "GNOMO"]
+    hard: ["ÁCIDO", "GOTAS", "ÁTOMO", "BUQUE", "CÉNIT", "CLORO", "DUCTO", "ÉXITO", "FÚTIL", "GNOMO"]
 };
 
 
