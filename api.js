@@ -2,9 +2,9 @@
 
 
 const words = {
-    easy: ["CASA", "PELO", "MANO", "GATO", "PERRO", "MESA", "SILLA", "AGUA", "BOCA", "DEDO"],
-    medium: ["ÁRBOL", "COCHE", "PLAYA", "RELOJ", "FLOR", "LECHE", "FUEGO", "HIELO", "HUEVO", "QUESO"],
-    hard: ["ÁCIDO", "ÁGIL", "ÁTOMO", "BUQUE", "CÉNIT", "CUÓRUM", "DÚCTIL", "ÉXITO", "FÚTIL", "GNOMO"]
+    easy: ["CASAS", "PELOS", "MANOS", "GATOS", "PERRO", "MESAS", "SILLA", "AGUAS", "BOCAS", "DEDOS"],
+    medium: ["ÁRBOL", "COCHE", "PLAYA", "RELOJ", "FLORA", "LECHE", "FUEGO", "HIELO", "HUEVO", "QUESO"],
+    hard: ["ÁCIDO", "GOTAS", "ÁTOMO", "BUQUE", "CÉNIT", "CUÓRUM", "DÚCTIL", "ÉXITO", "FÚTIL", "GNOMO"]
 };
 
 
